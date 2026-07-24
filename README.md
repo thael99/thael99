@@ -2,6 +2,8 @@
 
 Desenvolvedor Backend Jr, focado no ecossistema **Java**.
 
+![Visitors](https://komarev.com/ghpvc/?username=thael99&color=blue)
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
